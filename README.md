@@ -1,0 +1,2 @@
+# MyIdeaProgram
+my practice repository
